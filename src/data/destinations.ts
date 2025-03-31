@@ -4,7 +4,7 @@ export const topDestinations = [
     name: 'Hampi',
     description:
       'Hampi, the ancient capital of the Vijayanagara Empire, is a UNESCO World Heritage Site. Its vast collection of ruins, boulder-strewn landscapes, and intricately carved temples tell the tale of a once-flourishing civilization. Explore the architectural marvels and immerse yourself in its historical ambiance.',
-    imageUrl: '/images/hampi.jpg',
+    imageUrl: '/images/HAMPI.jpg',
     category: 'Heritage',
     rating: 4.8,
     bestTime: 'October to March',
@@ -66,7 +66,7 @@ export const topDestinations = [
     name: 'Mysore',
     description:
       'Mysore is celebrated as the cultural capital of Karnataka. With its magnificent palace, grand processions, and rich royal heritage, the city is a blend of historical elegance and modern vibrancy.',
-    imageUrl: '/images/Mysore-palace.jpg',
+    imageUrl: '/images/Mysore-Palace.jpg',
     category: 'Heritage',
     rating: 4.9,
     bestTime: 'September to March',
@@ -378,7 +378,7 @@ export const topDestinations = [
     name: 'Sravanabelagola',
     description:
       'Sravanabelagola is a revered Jain pilgrimage site, best known for its enormous monolithic statue of Gommateshwara. The town exudes spiritual energy and offers fascinating insights into Jain philosophy and art.',
-    imageUrl: '/images/shravanabelagola.jpg',
+    imageUrl: '/images/Shravanabelagola.jpg',
     category: 'Heritage',
     rating: 4.8,
     bestTime: 'October to March',
