@@ -18,10 +18,10 @@
 ## 📸 Sneak Peek
 
 ### 🏔️ Hero Section with Smooth Image Transitions
-![Hero Section](https://your-cdn-link/hero-preview.png)
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/4011919c-8e8f-4de5-83d7-6ee7194edd69" />
 
 ### 📍 Destination Cards
-![Cards Grid](https://your-cdn-link/cards-preview.png)
+<img width="1492" alt="Image" src="https://github.com/user-attachments/assets/41892491-7337-4056-ba7e-fcdf43f0bd0d" />
 
 ---
 
