@@ -15,15 +15,15 @@ const Hero: React.FC = () => {
 
   // Make sure the paths here match where your images actually live:
   const imagePaths = [
-    'src/images/KARNATAKA.webp',
-    'src//images/CHAMUNDI TEMPLE.jpg',
-    'src//images/Gol-Gumbaz-Karnataka.webp',
-    'src//images/HAMPI.jpg',
-    'src//images/JOG.jpg',
-    'src//images/Kudremukh-National-Park-banner-Image-1.webp',
-    'src//images/Mysore-Palace.jpg',
-    'src//images/PALACE.jpg',
-    'src//images/Shravanabelagola.jpg',
+    '/images/KARNATAKA.webp',
+    '/images/CHAMUNDI TEMPLE.jpg',
+    '/images/Gol-Gumbaz-Karnataka.webp',
+    '/images/HAMPI.jpg',
+    '/images/JOG.jpg',
+    '/images/Kudremukh-National-Park-banner-Image-1.webp',
+    '/images/Mysore-Palace.jpg',
+    '/images/PALACE.jpg',
+    '/images/Shravanabelagola.jpg',
   ];
 
   const [imagesLoaded, setImagesLoaded] = useState(false);
